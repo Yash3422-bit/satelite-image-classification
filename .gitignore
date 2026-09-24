@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Datasets
+data/
+dataset/
+datasets/
+EuroSAT/
+EuroSAT.zip
+*.zip
+
+# Machine Learning Models
+*.pth
+*.pt
+*.h5
+*.keras
+*.pkl
+
+# Environment / Secrets
+.env
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
